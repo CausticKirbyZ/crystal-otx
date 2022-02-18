@@ -1,6 +1,5 @@
-# TODO: Write documentation for `Crystal::Otx`
-module Crystal::Otx
-  VERSION = "0.1.0"
+require "./otx/*"
 
-  # TODO: Put your code here
+module OTX
+  VERSION = "0.0.1"
 end
